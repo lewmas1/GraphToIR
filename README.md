@@ -13,7 +13,7 @@ The molecular graphs are represented using nodes and edges, where nodes represen
   <img src="IR.png" alt="Example IR" width="300" />
   <img src="IRH.png" alt="Example IR" width="300" />
 </div>
-Above is an example prediction of benzyl alcohol and Heptance showing some correct peak information and create a realistic IR spectrum for both.
+Above is an example prediction of benzyl alcohol and Heptane showing some correct peak information and create a realistic IR spectrum for both.
 
 ## Installation
 ```bash
