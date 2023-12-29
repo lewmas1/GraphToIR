@@ -18,10 +18,10 @@ Above is an example prediction of benzyl alcohol and Heptane showing some correc
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/lewmas1/GraphtoIR.git
+git clone https://github.com/lewmas1/GraphToIR.git
 
 # Change directory to the project folder
-cd GraphtoIR
+cd GraphToIR
 
 # Install dependencies (if applicable)
 pip install -r requirements.txt
@@ -39,7 +39,7 @@ Once training is complete it should save the model as `model.pt`.
 
 ### Testing
 
-Testing the model can be done by running `test.py` which requires a smiles string which will create a matplotlib plot of the predicited IR spectrum.
+Testing the model can be done by running `test.py` which requires a smiles string which will create a matplotlib plot of the predicited IR spectrum and the model file.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
